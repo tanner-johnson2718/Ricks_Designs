@@ -1,0 +1,64 @@
+Each bench seat has two vertical guides
+Blind frame slides on guides
+Blind frame is made of 6 pieces
+   Front
+   Back
+   2x side towards front
+   2x side towards rear
+2 middle and 4 corner pieces to connect frame
+Linear frame pieces can rotate about connectors to allow rolling up of Blind
+Vertical guides are connected via quick release pin
+Linear blind pieces connect to frame via quick release pin
+Blind frame rests on boat frame
+Blind frame is secured in pop up position via quick release pin
+
+Current Blind pieces .5inch pvc)
+Side x6: 55 inches
+Front: 32 inches
+Back: 39 inches
+Vert: 39 inches
+
+From back to front, interior bottom dim on ribs)
+0 : 31 : h=14.5
+18.75 : 31.5 : h=14
+14.25 : 31 .5 : h=14
+14.25 : 31.5 : h=14
+14.25 : 31.5 : h=14
+14.25 : 31.5 : h=14
+14.25 : 31.5 : h=14
+14.25 : 31.5 : h= 13.75
+18 : 28 ( edge of front seat) : h = 13.5
+
+Back seat)
+Back of seat to transom: 17
+Seat width: 12
+Seat length: 39
+Seat thick: 4
+Top of seat to rim: 5
+Rivot dist: 1.5
+
+Middle seat)
+Front of back seat to back of middle: 42
+Seat width: 12
+Seat length: 39
+Seat thick: 4
+Top of Seat to rim: 5
+Rivot dist: 1.5
+
+Front seat)
+Front of middle to back of front: 37.75
+Seat width: 12
+Seat length back: 30.5
+Seat length front: 26
+Top of seat to rim: 5
+Rivot dist : 1.75
+
+Front incline)
+Starts 2 inches off last bow
+Displaces 7 inches vert for 24 inch hor.
+
+Rim is 1.25 inches wide
+Drops and inch vert before going flush on interior
+
+
+
