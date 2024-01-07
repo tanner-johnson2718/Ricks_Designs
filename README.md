@@ -1,6 +1,6 @@
 # Designs
 
-Fonts, STLs, and images to be used in several 3D models. Also includes FreeCad macros for scripting 3D modeling. Also contains directory Misc_3D_Prints that contains the majority of 3D printed projects that are not big enough to constitute of separate git repo. 
+A catch all for all 3d Printing projects until I find a better place to put this. Less of an active repo and more of a storage bank for STL and 3d printing projects
 
 # Macros
 ## Adding custom Macros in FreeCad

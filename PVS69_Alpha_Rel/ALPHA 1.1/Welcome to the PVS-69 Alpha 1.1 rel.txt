@@ -1,0 +1,17 @@
+Welcome to the PVS-69 Alpha 1.1 release!
+
+
+This pack contains the files for the 69 Alpha Bino and Mono and battery pack
+
+
+YOU DO NOT NEED TO OPEN THE ZIP FILES! 
+
+
+I get an email about that like every day. you just upload the zip files to OSHPARK, JLCPCB or PCBWAY.
+
+
+
+in each file, there is a readme. READ THEM
+
+Due to recent intellectual property violations, I will no longer distribute step files. 
+

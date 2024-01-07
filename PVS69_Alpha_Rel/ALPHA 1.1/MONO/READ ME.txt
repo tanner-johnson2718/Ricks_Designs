@@ -1,0 +1,45 @@
+elcome to the official release of the PVS-69 ALPHA. 
+
+
+
+PVS-69 ALPHA is the 4th generation night vision housing in the 69 line. 
+
+ALPHA features a lightweight yet durable housing with an assembly cost of around $100
+
+
+
+ALPHA is intended to be an analog/digital housing. depending on your budget you can build it either way. 
+
+ALPHA accepts MX-10160 format tubes or the MX-69 Digital image intensifier tube (DIIT).
+
+
+Before I get into the parts list you can save yourself some money and hassle by just ordering a hardware kit on vonscherfarms.com the hardware kit comes with everything you need except the cams and displays. 
+
+Parts list. 
+
+1x Pushbutton switch 
+https://amzn.to/3KjFyI2
+
+
+2x leaf connector.
+https://www.digikey.com/en/products/detail/harwin-inc/S1761-46R/3728117?utm_medium=email&utm_source=oce&utm_campaign=4251_OCE22RT&utm_content=productdetail_US&utm_cid=3364715&so=79008458&mkt_tok=MDI4LVNYSy01MDcAAAGIfd1T6fnkkL8NJDOJRinSx1vh9dnhlINw2Y1bYghJ7wcMj-GoAH0maJPkp0pcGx3uOWwrFYj783DADxEZEJ3iw5lyaO8uF1ZmlKNqyDHe
+
+1x PVS-14 eyepiece. these can get rather expensive but the Chinese ones work well.
+
+1x objective lenses. if you're using analog you will use PVS-14 lenses. if you're going digital use the 8mm CS lens or use the 8mm PVS-14 lens available on Alibaba or my website
+
+all lenses can be bought on vonscherfarms.com for cheaper than alibaba
+
+
+
+PCBs. 
+
+the files are in zipped folders. drop those zip files into JLCPCB Oshpark or PCBway and order them. you will need 2 sets of tube pcbs and 1 bridge pcb
+
+
+
+
+
+
+
+
